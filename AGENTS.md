@@ -1,6 +1,5 @@
-#AGEMTS.md
+<!-- BEGIN:nextjs-agent-rules -->
+# This is NOT the Next.js you know
 
-이 파일은 에이전트가 따르는 지침입니다.
-
--한글로 대답해주세요.
--모호한게 있다면 저에게 질문해 주세요.
+This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
+<!-- END:nextjs-agent-rules -->
