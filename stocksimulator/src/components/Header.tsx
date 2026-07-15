@@ -39,7 +39,7 @@ export default function Header() {
       <div className={`container ${styles.headerContent}`}>
         <Link href="/" className={styles.logo}>
           <Hammer className={styles.icon} size={28} />
-          <h1>SmashPic</h1>
+          <h1>smash the picture</h1>
         </Link>
         <nav className={styles.nav}>
           <Link href="/upload" className={styles.uploadBtn}>사진 올리기</Link>

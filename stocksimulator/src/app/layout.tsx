@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "SmashPic - 스트레스 해소용 사진 부수기",
+  title: "smash the picture - 스트레스 해소용 사진 부수기",
   description: "망치로 사진을 산산조각 내면서 스트레스를 풀어보세요!",
 };
 
